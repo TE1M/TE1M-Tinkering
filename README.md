@@ -1,3 +1,1 @@
-This is a public repository I am using to store/showoff some cool projects I've hacked together. If you find something you think I could be doing better, feel free to let me know >:).
-
-Good day to you all.
+Most of the code kept here will be apart of study material, and thus will be prone to many many comments riddling the code as I attempt to understand what in the world is going on. It's also to store code for future reference 🫡.
